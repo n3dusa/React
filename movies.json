@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "reviews": [
+      {
+        "username": "Samuel",
+        "stars": 3,
+        "reviewText": "This is amazing",
+        "date": "2024-11-30T19:37:10.758Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 4,
+    "title": "The Prestige",
+    "year": 2006,
+    "genre": "Drama"
+  },
+  {
+    "id": 5,
+    "title": "Dunkirk",
+    "year": 2017,
+    "genre": "War"
+  },
+  {
+    "id": 6,
+    "title": "Memento",
+    "year": 2000,
+    "genre": "Thriller"
+  },
+  {
+    "id": 7,
+    "title": "Tenet",
+    "year": 2020,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 8,
+    "title": "Batman Begins",
+    "year": 2005,
+    "genre": "Action"
+  },
+  {
+    "id": 9,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genre": "Action"
+  },
+  {
+    "id": 10,
+    "title": "Insomnia",
+    "year": 2002,
+    "genre": "Mystery"
+  },
+  {
+    "id": 11,
+    "title": "Following",
+    "year": 1998,
+    "genre": "Thriller"
+  }
+]
