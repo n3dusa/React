@@ -1,6 +1,6 @@
 # Meal Recipe App
 
-Welcome to the Meal Recipe App! This app provides a collection of delicious meal recipes, including detailed instructions, ingredients, and tips. You can explore recipes, search for specific meals, or discover a random recipe each time you visit. 
+Meal Recipe App, This app provides a collection of delicious meal recipes, including detailed instructions, ingredients, and tips. You can explore recipes, search for specific meals, or discover a random recipe each time you visit. 
 
 ## Features
 
